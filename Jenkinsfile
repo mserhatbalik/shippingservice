@@ -31,7 +31,7 @@
                 steps{  
                     writeFile file: 'shippingservice.txt', text: 'Build is completed successfully.'
                     }
-                }
             }
+            
         }
     }
